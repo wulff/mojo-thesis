@@ -24,74 +24,81 @@ __DATA__
 
 @@ 1.html.ep
 % layout 'default';
-<h1>Én ud af 35 af de økonomiske prognoser rammer rigtigt</h1>
+<h1>Én ud af 35 økonomiske prognoser rammer rigtigt</h1>
 <p class="subhead">
   Næsten alle økonomernes vækstforudsigelser rammer forkert. Og de
-  økonomiske prognoser er ikke blevet mere præcise de seneste fire
-  årtier, viser Informations opgørelse. Alligevel er de et vægtigt
-  argument i den politiske debat
+  økonomiske prognoser er ikke blevet mere præcise de seneste fire årtier.
+  Det viser en gennemgang af 42 års prognoser, som denne avis har lavet
 </p>
 <p>
   <img src="http://www.information.dk/sites/information.dk/files/media/13/12/20131212-110035-l-1000x691we.jpg" alt="Margrethe Vestager" width="1000" height="691" class="img-responsive">
 </p>
-<h2>Én ud af 35 af de økonomiske prognoser rammer rigtigt</h2>
 <p>
-  De økonomiske prognoser optager spalteplads i medierne og bliver brugt som et tungt argument i den politiske debat. Men prognoserne er slet ikke en præcis forudsigelse af den økonomiske vækst. Det viser en opgørelse, som Information har lavet.
+  I torsdags offentliggjorde Økonomi- og Indenrigsministeriet deres nyeste rapport om dansk økonomi. Og ifølge deres beregninger, er der godt nyt i vente: »BNP-væksten ventes øget fra 0,4 pct. i 2013 til 1,6 pct. i 2014,« skriver statens regnedrenge i rapporten.
 </p>
 <p>
-  For hver gang én prognose forudser næste års vækst præcist, så rammer 34 prognoser ved siden af. Eller med andre ord: Kun tre ud af hundrede prognoser rammer helt rigtigt. Over de seneste fire årtier, som Information har undersøgt, er der ingen tendens til, at de økonomiske prognoser er blevet mere præcise.
+  Og ministeriet er ikke de eneste, der gætter på næste års økonomiske udvikling. Alle, der er noget inden for økonomi – bankerne, de økonomiske vismænd og OECD,udgiver årligt en prognose, hvor der gættes på, hvor høj eller lav næste års vækst bliver. Forudsigelser, der både optager meget spalteplads i medierne og bliver brugt som et tungt argument i den politiske debat.
 </p>
+<p>
+  Men i virkeligheden kan vi, når året er omme, ligeså godt have haft endnu et år med nulvækst, som vi kunne have haft et fantastisk år med 2,5 procents vækst. For prognoserne er slet ikke en præcis forudsigelse af økonomiens udvikling. Det viser en undersøgelse, som denne avis har lavet. For hver gang én prognose forudser næste års vækst præcist, så rammer 34 prognoser ved siden af. Og der er heller ingen tegn på, at de økonomiske prognoser er blevet mere præcise over tid.
+</p>
+<h2>Vi må leve med fejl</h2>
 <p>
   »Det er sådan noget, man må leve med. Der er ikke grund til at tro, at vi i fremtiden kan få halvt så store forudsigelsesfejl. Det ville være naivt at tro,« siger John Smidt, der er sekretariatschef i Det Økonomiske Råd, der laver de økonomiske vismænds prognoser.
 </p>
 <p>
-  Også cheføkonom i Nordea Helge J. Pedersen mener, at prognoserne skal bruges påpasseligt: »Jeg tror, man må acceptere, at der er så stor en fejlmargin. Og derfor skal man også bruge prognoser med en høj grad af ydmyghed,« siger han.
+  Også Nordeas cheføkonom, Helge J. Pedersen, mener, at prognoserne skal bruges påpasseligt: »Jeg tror, man må acceptere, at der er så stor en fejlmargin. Og derfor skal man også bruge prognoser med en høj grad af ydmyghed,« siger han.
 </p>
-<h2>Rammer endnu dårligere under kriser</h2>
 <p>
   Det er særligt, når væksten er lavere end normalt, at prognoserne rammer skævt. I gennemsnit er afvigelsen på prognoserne dobbelt så stor i tider med krise. Derfor ramte prognoserne også særlig skævt under finanskrisen.
 </p>
 <p>
-  »Når væksten bliver meget lav eller negativ, så rammer vi langt ved siden af,« siger Klaus Rasmussen, der er cheføkonom i Dansk Industri. Vismændene, Nordea og Dansk Industri er tre af de fem prognosemagere, der indgår i Informations undersøgelse af prognoser siden 1970. Opgørelsen viser, at over fire årtier og på tværs af de fem institutioner er der en årlig gennemsnitlig forudsigelsesfejl på et procentpoint i prognoserne.
+  »Når væksten bliver meget lav eller negativ, så rammer vi langt ved siden af,« siger Klaus Rasmussen, der er cheføkonom i Dansk Industri. Vismændene, Nordea og Dansk Industri er tre af de fem prognosemagere, der indgår i avisens undersøgelse af  42 års prognoser. Opgørelsen viser, at over fire årtier og på tværs af de fem institutioner er der et årlig gennemsnitligt fejlskud på et procentpoint.
+</p>
+<h2>Prognoserne er fundamentalt usikre</h2>
+<p>
+  Ifølge Professor i økonomi og tidligere Økonomisk Vismand, Niels Blomgren-Hansen må vi bare acceptere, at prognoserne har en fundamental usikkerhed, der udspringer af, at det ikke er en fuldkommen rationel verden vi lever i.
 </p>
 <p>
-  Det betyder, at når økonomiminister Margrethe Vestager, der torsdag præsenterede regeringens seneste prognose, glæder sig over en forventet vækst på 1,6 procent næste år, så kan væksten lige så godt ende med at blive 0,6 eller 2,6 procent. Det svarer til forskellen på, hvad økonomer vil karakterisere som henholdsvis krise eller opsving - eller en usikkerhed, der svarer til prisen på en halv Øresundsforbindelse.
+  »Vi har ikke en verden, hvor hvert menneske er et lille tandhjul, du ved hvordan drejer rundt under en given påvirkning. « siger han.
 </p>
 <p>
-  Alligevel spiller prognoserne en central rolle i den politiske debat. I Dansk Industri betragter man ligefrem prognoserne som en måde at blive en del af debatten på.
+  Prognosernes fundamentale usikkerhed betyder, at når økonomiminister Margrethe Vestager præsenterer regeringens seneste prognose,  og glæder sig over en forventet vækst på 1,6 procent næste år, så kan væksten lige så godt ende med at blive 0,6 eller 2,6 procent. Det svarer til forskellen på, hvad økonomer vil karakterisere som henholdsvis krise eller opsving.
 </p>
 <p>
-  »Vi anser det for adgangsbilletten til at deltage i den økonomisk-politiske debat,« siger Klaus Rasmussen, der mener, at prognoserne er med til at sætte rammerne for debatten. »Det er det, der er formålet,« siger han.
+  Omregnet til kroner og øre svarer det eksempelvis til 15,5 milliarder i forhold til sidste års budget – rigeligt til at dække statens udgifter til dagpenge og kontanthjælp eller en halv Øresundsforbindelse.
 </p>
 
 @@ 2.html.ep
 % layout 'default';
-<h1>Én ud af 35 af de økonomiske prognoser rammer rigtigt</h1>
+<h1>Én ud af 35 økonomiske prognoser rammer rigtigt</h1>
 <p class="subhead">
   Næsten alle økonomernes vækstforudsigelser rammer forkert. Og de
-  økonomiske prognoser er ikke blevet mere præcise de seneste fire
-  årtier, viser Informations opgørelse. Alligevel er de et vægtigt
-  argument i den politiske debat
+  økonomiske prognoser er ikke blevet mere præcise de seneste fire årtier.
+  Det viser en gennemgang af 42 års prognoser, som denne avis har lavet
 </p>
 <p>
-  <img src="http://www.information.dk/sites/information.dk/files/media/13/12/bulls_it.png" alt="Margrethe Vestager" width="976" height="549" class="img-responsive">
+  <img src="http://www.information.dk/sites/information.dk/files/media/13/12/20131212-110035-l-1000x691we.jpg" alt="Margrethe Vestager" width="1000" height="691" class="img-responsive">
 </p>
 <p>
-  I torsdags offentliggjorde Økonomi- og Indenrigsministeriet deres nyeste rapport om dansk økonomi. Og ifølge deres beregninger, er der godt nyt i vente: »BNP-væksten ventes øget fra 0,4 pct. i 2013 til 1,6 pct. i 2014,« skriver statens regnedrenge i rapporten. 
+  I torsdags offentliggjorde Økonomi- og Indenrigsministeriet deres nyeste rapport om dansk økonomi. Og ifølge deres beregninger, er der godt nyt i vente: »BNP-væksten ventes øget fra 0,4 pct. i 2013 til 1,6 pct. i 2014,« skriver statens regnedrenge i rapporten.
 </p>
 <p>
-  Men i virkeligheden kan vi – når året er omme - ligeså godt have haft endnu et år med nulvækst, som vi kunne have haft et fantastisk år med 2,5 procents vækst. I løbet af de sidste 42 år, har de økonomiske forudsigelser nemlig blot ramt plet på 5 ud af 179 forsøg. Det viser en undersøgelse, som Databloggen har foretaget.
+  Og ministeriet er ikke de eneste, der gætter på næste års økonomiske udvikling. Alle der er noget inden for økonomi, bankerne, de økonomiske vismænd og OECD, udgiver årligt en prognose, hvor der gættes på, hvor høj eller lav næste års vækst bliver. Forudsigelser, der både optager meget spalteplads i medierne og bliver brugt som et tungt argument i den politiske debat.
+</p>
+<p>
+  Men i virkeligheden kan vi, når året er omme, ligeså godt have haft endnu et år med nulvækst, som vi kunne have haft et fantastisk år med 2,5 procents vækst. For prognoserne er slet ikke en præcis forudsigelse af økonomiens udvikling. . I løbet af de sidste 42 år, har de økonomiske forudsigelser nemlig blot ramt plet på 5 ud af 179 forsøg, eller 34 fejlskud for hver fuldtræffer. Og der er heller ingen tegn på, at de økonomiske prognoser er blevet mere præcise over tid.
 </p>
 <h2>Sådan har vi gjort</h2>
 <p>
-  På Databloggen har vi indsamlet prognoser fra fem toneangivende økonomiske aktører: Økonomi- og Indenrigsministeriet, Det Økonomiske Råd, Dansk Industri, OECD og Nordea. Vi har sammenholdt prognosernes bud på vækst med Danmarks Statistiks årlige opgørelse over, hvad væksten reelt blev. 
+  På Databloggen har vi indsamlet prognoser fra fem toneangivende økonomiske aktører: Økonomi- og Indenrigsministeriet, Det Økonomiske Råd, Dansk Industri, OECD og Nordea. Vi har sammenholdt prognosernes bud på vækst med Danmarks Statistiks årlige opgørelse over, hvad væksten reelt blev.
 </p>
 <p>
   Vi kan hermed analysere prognosers træfsikkerhed fra 1970 og frem til i dag - gennem fire kriser og tre opsving. Den længste periode der endnu er undersøgt med det formål.
 </p>
 <h2>Træfsikkerhed gennem 42 år</h2>
 <p>
-  Den første graf viser et lille stykke økonomisk danmarkshistorie. Her kan man se opsvinget i starten 70'erne og midt-firserne. Man kan se hvordan oliekriserne og IT-krisen i 2003 forplanter sig fra den globale økonomi og trækker i bremsen for den danske vækst. Boligboblen i 2006-07 og endelig den dramatiske recession i 2009 - det største tilbageslag for dansk økonomi siden 1920'erne. 
+  Den første graf viser et lille stykke økonomisk danmarkshistorie. Her kan man se opsvinget i starten 70'erne og midt-firserne. Man kan se hvordan oliekriserne og IT-krisen i 2003 forplanter sig fra den globale økonomi og trækker i bremsen for den danske vækst. Boligboblen i 2006-07 og endelig den dramatiske recession i 2009 - det største tilbageslag for dansk økonomi siden 1920'erne.
 </p>
 <p>
   Det er de udsving i økonomien, som prognosemagerne forsøger at forudsige.
@@ -115,16 +122,13 @@ __DATA__
 </p>
 <h2>Prognoserne er fundamentalt usikre</h2>
 <p>
-  Prognosemageri er en vanskelig profession. Ud af 179 prognoser rammer spåmændene plet 5 gange! 
+  Grafen viser fejlskud på to-tre procentpoint under oliekriserne i halvfjerdserne, en stor præcision i halvfemserne, for så igen at ramme helt skævt under finanskrisen. Det er særligt, når væksten er lavere end normalt, at prognoserne rammer skævt. I gennemsnit er afvigelsen på prognoserne dobbelt så stor i tider med krise. Derfor ramte prognoserne også særlig skævt under finanskrisen
 </p>
 <p>
-  Grafen viser fejlskud på to-tre procentpoint under oliekriserne i halvfjerdserne, en stor præcision i halvfemserne, for så igen at ramme helt skævt under finanskrisen. Forudsigelserne har store udsving i træfsikkerheden, når konjunkturerne svinger.
+  Opgørelsen viser, at over fire årtier og på tværs af de fem institutioner er der et årlig gennemsnitligt fejlskud på et procentpoint. Så når Økonomi- og Indenrigsministeriet forventer en vækst på 1,6 procent, vil det historisk set lige så godt kunne resultere i 0,6 procents vækst såvel som 2,6 procent.
 </p>
 <p>
-  Samlet set ligger den gennemsnitlige fejlprocent på cirka 1 procentpoint år for år. Så når Økonomi- og Indenrigsministeriet forventer en vækst på 1,6 procent, vil det historisk set lige så godt kunne resultere i 0,6 procents vækst såvel som 2,6 procent. 
-</p>
-<p>
-  En usikkerhed på 1 procentpoint kan umiddelbart opfattes som en beskeden fejlprocent, når man tager kompleksiteten i økonomien i betragtning. Men omregnet til kroner svarer det eksempelvis til 15,5 milliarder sidste år - rigeligt til at dække statens udgifter til dagpenge og kontanthjælp eller en halv Øresundsforbindelse.
+  En usikkerhed på 1 procentpoint kan umiddelbart opfattes som en beskeden fejlprocent, når man tager kompleksiteten i økonomien i betragtning. Men omregnet til kroner svarer det eksempelvis til 15,5 milliarder i forhold til sidste års budget - rigeligt til at dække statens udgifter til dagpenge og kontanthjælp eller en halv Øresundsforbindelse.
 </p>
 <p>
   <a href="http://www.information.dk/databloggen/481846"><em>Download data bag analysen her</em></a>
