@@ -8,21 +8,37 @@ app->secrets([$config->{secret}]);
 
 get '/' => sub {
   my $self = shift;
+  $self->render('goaway');
+};
 
-  # page is randomly set to either 1 or 2.
-  my $page = int(rand(2)) + 1;
+get '/4377bc7f3756bf0a9cbabf41a895eb69' => sub {
+  my $self = shift;
 
   $self->res->headers->cache_control('no-cache, no-store, must-revalidate, max-age=0');
   $self->res->headers->expires(0);
   $self->res->headers->add('Pragma' => 'no-cache');
 
-  $self->render($page);
+  $self->render('4377bc7f3756bf0a9cbabf41a895eb69');
+};
+
+get '/e86e4b512913d137b98df4c37eef4e15' => sub {
+  my $self = shift;
+
+  $self->res->headers->cache_control('no-cache, no-store, must-revalidate, max-age=0');
+  $self->res->headers->expires(0);
+  $self->res->headers->add('Pragma' => 'no-cache');
+
+  $self->render('e86e4b512913d137b98df4c37eef4e15');
 };
 
 app->start;
 __DATA__
 
-@@ 1.html.ep
+@@ goaway.html.ep
+% layout 'default';
+<p style="text-align: center;">this is not the article you are looking for…</p>
+
+@@ 4377bc7f3756bf0a9cbabf41a895eb69.html.ep
 % layout 'default';
 <h1>Én ud af 35 økonomiske prognoser rammer rigtigt</h1>
 <p class="subhead">
@@ -106,7 +122,7 @@ __DATA__
   dagpenge og kontanthjælp eller en halv Øresundsforbindelse.
 </p>
 
-@@ 2.html.ep
+@@ e86e4b512913d137b98df4c37eef4e15.html.ep
 % layout 'default';
 <h1>Én ud af 35 økonomiske prognoser rammer rigtigt</h1>
 <p class="subhead">
