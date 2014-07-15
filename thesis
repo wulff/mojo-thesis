@@ -46,8 +46,14 @@ __DATA__
   økonomiske prognoser er ikke blevet mere præcise de seneste fire årtier.
   Det viser en gennemgang af 42 års prognoser, som denne avis har lavet
 </p>
-<p>
+<p class="image">
   <img src="http://www.information.dk/sites/information.dk/files/media/13/12/20131212-110035-l-1000x691we.jpg" alt="Margrethe Vestager" width="1000" height="691" class="img-responsive">
+</p>
+<p class="byline small text-muted">
+  Margrethe Vestager præsenterer Økonomi- og Indenrigsministeriets nyeste rapport om dansk økonomi. <strong>Foto: Scanpix</strong>
+</p>
+<p>
+  <em>Af Morten Christoffersen</em>
 </p>
 <p>
   I torsdags offentliggjorde Økonomi- og Indenrigsministeriet deres nyeste
@@ -130,8 +136,11 @@ __DATA__
   økonomiske prognoser er ikke blevet mere præcise de seneste fire årtier.
   Det viser en gennemgang af 42 års prognoser, som denne avis har lavet
 </p>
-<p>
+<p class="image">
   <img src="http://www.information.dk/sites/information.dk/files/media/13/12/20131212-110035-l-1000x691we.jpg" alt="Margrethe Vestager" width="1000" height="691" class="img-responsive">
+</p>
+<p class="byline small text-muted">
+  Margrethe Vestager præsenterer Økonomi- og Indenrigsministeriets nyeste rapport om dansk økonomi. <strong>Foto: Scanpix</strong>
 </p>
 <p>
   I torsdags offentliggjorde Økonomi- og Indenrigsministeriet deres nyeste
@@ -243,6 +252,7 @@ __DATA__
     <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
     <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css">
     <link href="http://fonts.googleapis.com/css?family=PT+Serif:400,700,400italic" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=PT+Sans:400,700" rel="stylesheet" type="text/css">
 
     <style type="text/css">
       body {
@@ -269,6 +279,13 @@ __DATA__
       }
       p.subhead {
         color: #999;
+      }
+      p.image {
+        margin-bottom: 5px;
+      }
+      p.byline {
+        font-family: 'PT Sans', sans-serif;
+        line-height: 19px;
       }
     </style>
 
